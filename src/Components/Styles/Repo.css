@@ -1,0 +1,35 @@
+.repos{
+    color: blanchedalmond;
+    background-color: rgb(65, 62, 62);
+    
+}
+.repos:hover{
+    border: 1px solid rgb(247, 174, 65);
+    box-shadow: 0px 0px 30px rgb(29, 29, 29);
+}
+.heading{
+    color: rgb(247, 174, 65);
+}
+.list{
+    height: 780px;
+    overflow: scroll;
+    scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+  }
+
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey; 
+    border-radius: 10px;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: rgb(247, 174, 65);
+    border-radius: 10px;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgb(247, 174, 65);
+  }

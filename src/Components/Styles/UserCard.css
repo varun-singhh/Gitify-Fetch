@@ -1,0 +1,11 @@
+.usercard{
+    color: blanchedalmond;
+    background-color: rgb(65, 62, 62);
+}
+.usercard>img{
+    border: 2px solid  rgb(247, 174, 65);
+    background-color: rgb(65, 62, 62);
+}
+.heading{
+    color: rgb(247, 174, 65);
+}

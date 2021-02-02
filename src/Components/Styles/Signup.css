@@ -1,0 +1,30 @@
+.signin-container{
+    color: blanchedalmond;
+    background-color:rgb(43, 43, 44);
+    border: none;
+}
+.form{
+    color: blanchedalmond;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 2px solid blanchedalmond;
+    background-color:rgb(43, 43, 44);
+}
+.form:hover{
+    color: blanchedalmond;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 2px solid  blanchedalmond;
+    background-color:rgb(43, 43, 44);
+}
+.signin-f{
+    background-color:rgb(43, 43, 44);
+    border: none;
+}
+.button-log{
+    width: 50%;
+    color: rgb(43, 43, 44);
+    background-color: blanchedalmond;
+}
