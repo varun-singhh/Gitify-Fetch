@@ -2,7 +2,11 @@
 
 This project was created with intention of Fetching  Github user and their Public Repository, this project used some important dependencies like Axios for fetching data, and this project is being authenticated using firebase.
 ### `Install Dependencies`
-
+<p align="center">
+<img src="https://img.shields.io/github/issues/varun-singhh/Gitify-Fetch?style=for-the-badge&color=red">
+<img src="https://img.shields.io/github/forks/varun-singhh/Gitify-Fetch?style=for-the-badge">
+<img src="https://img.shields.io/github/issues-pr-closed/varun-singhh/Gitify-Fetch?color=green&style=for-the-badge">
+</p>
 Many Extra packages are used in this todo app like
 - ✔️ reactstrap: It's Bootstap For React Projects
 - ✔️ bootstrap: this is needed to run reactstrap components
