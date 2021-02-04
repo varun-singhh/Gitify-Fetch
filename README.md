@@ -39,7 +39,7 @@ netlify deploy
 ```
 ##### Checkout this project: <a href="https://gifi.netlify.app/">Gitify-Fetch</a>
 
-✅Feel Free to add more Features to this todo, Just Raise an Issue and then create a pull request to get your pull request merged. if you like this concept of Todo With help of Context API and Local Storage don't forget to ⭐(star) this repository.
+✅Feel Free to add more Features to this todo, Just Raise an Issue and then create a pull request to get your pull request merged. if you like this don't forget to ⭐(star) this repository.
 
 <p align="center">
     <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg">
