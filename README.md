@@ -9,12 +9,12 @@
 This project was created with intention of Fetching  Github user and their Public Repository, this project used some important dependencies like Axios for fetching data, and this project is being authenticated using firebase.
 ### `Install Dependencies`
 
-Many Extra packages are used in this todo app like
-- ✔️ reactstrap: It's Bootstap For React Projects
-- ✔️ bootstrap: this is needed to run reactstrap components
-- ✔️ axios: this is needed to fetch data from API
-- ✔️ react-document-configuration: this is needed to do HTML manipulatons
-- ✔️ react-toastify: this helps to create toast popups.
+Many Extra packages are used in this todo app like  
+✔️ reactstrap: It's Bootstap For React Projects  
+✔️ bootstrap: this is needed to run reactstrap components  
+✔️ axios: this is needed to fetch data from API  
+✔️ react-document-configuration: this is needed to do HTML manipulatons  
+✔️ react-toastify: this helps to create toast popups.  
 
 ###### To install thes packages run the folowing command:   `npm i reactstrap bootstrap react-toastify axios react-document-configuration`
 
